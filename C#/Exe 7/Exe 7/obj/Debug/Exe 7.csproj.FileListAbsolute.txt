@@ -1,0 +1,8 @@
+C:\Users\Usuário\Documents\Codigos\Visual studio\Exe 7\Exe 7\bin\Debug\Exe 7.exe.config
+C:\Users\Usuário\Documents\Codigos\Visual studio\Exe 7\Exe 7\bin\Debug\Exe 7.exe
+C:\Users\Usuário\Documents\Codigos\Visual studio\Exe 7\Exe 7\bin\Debug\Exe 7.pdb
+C:\Users\Usuário\Documents\Codigos\Visual studio\Exe 7\Exe 7\obj\Debug\Exe 7.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Codigos\Visual studio\Exe 7\Exe 7\obj\Debug\Exe 7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuário\Documents\Codigos\Visual studio\Exe 7\Exe 7\obj\Debug\Exe 7.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Codigos\Visual studio\Exe 7\Exe 7\obj\Debug\Exe 7.exe
+C:\Users\Usuário\Documents\Codigos\Visual studio\Exe 7\Exe 7\obj\Debug\Exe 7.pdb

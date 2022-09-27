@@ -1,0 +1,8 @@
+C:\Users\Usuário\Documents\Codigos\Visual studio\Exe 3\Exe 3\bin\Debug\Exe 3.exe.config
+C:\Users\Usuário\Documents\Codigos\Visual studio\Exe 3\Exe 3\bin\Debug\Exe 3.exe
+C:\Users\Usuário\Documents\Codigos\Visual studio\Exe 3\Exe 3\bin\Debug\Exe 3.pdb
+C:\Users\Usuário\Documents\Codigos\Visual studio\Exe 3\Exe 3\obj\Debug\Exe 3.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Codigos\Visual studio\Exe 3\Exe 3\obj\Debug\Exe 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuário\Documents\Codigos\Visual studio\Exe 3\Exe 3\obj\Debug\Exe 3.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Codigos\Visual studio\Exe 3\Exe 3\obj\Debug\Exe 3.exe
+C:\Users\Usuário\Documents\Codigos\Visual studio\Exe 3\Exe 3\obj\Debug\Exe 3.pdb

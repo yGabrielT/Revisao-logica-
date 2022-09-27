@@ -1,0 +1,8 @@
+C:\Users\Usuário\Documents\Codigos\Visual studio\soma_vezes\soma_vezes\bin\Debug\soma_vezes.exe.config
+C:\Users\Usuário\Documents\Codigos\Visual studio\soma_vezes\soma_vezes\bin\Debug\soma_vezes.exe
+C:\Users\Usuário\Documents\Codigos\Visual studio\soma_vezes\soma_vezes\bin\Debug\soma_vezes.pdb
+C:\Users\Usuário\Documents\Codigos\Visual studio\soma_vezes\soma_vezes\obj\Debug\soma_vezes.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Codigos\Visual studio\soma_vezes\soma_vezes\obj\Debug\soma_vezes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuário\Documents\Codigos\Visual studio\soma_vezes\soma_vezes\obj\Debug\soma_vezes.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Codigos\Visual studio\soma_vezes\soma_vezes\obj\Debug\soma_vezes.exe
+C:\Users\Usuário\Documents\Codigos\Visual studio\soma_vezes\soma_vezes\obj\Debug\soma_vezes.pdb
